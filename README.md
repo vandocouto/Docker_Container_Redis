@@ -10,6 +10,9 @@
 
 - Iniciando o container
 <pre>
+# cd $PWD/Docker_Container_Redis/
+</pre>
+<pre>
 # docker-compose up -d
 </pre>
 - Para acessar o container (user: root / pass: root)
