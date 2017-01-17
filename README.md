@@ -8,7 +8,6 @@
 # echo "sysctl vm.overcommit_memory=1" >> /etc/sysctl.conf
 </pre>
 
-<pre>
 - Iniciando o container
 <pre>
 # docker-compose up -d
@@ -17,6 +16,5 @@
 <pre>
 # ssh root@127.0.0.1 -p2200
 </pre>
-
 <hr>
 - Senha do Redis: "password"
