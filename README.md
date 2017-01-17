@@ -1,4 +1,4 @@
-# Docker Conteiner Redis 
+# Docker Container Redis 
 
 <pre>
 # docker volume create --name Redis
