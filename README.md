@@ -1,12 +1,12 @@
 # Docker Container Redis 
-
+- Ajustando a intância:
 <pre>
 # docker volume create --name Redis
 </pre>
-
 <pre>
 # echo "sysctl vm.overcommit_memory=1" >> /etc/sysctl.conf
 </pre>
+<hr>
 
 - Iniciando o container
 <pre>
