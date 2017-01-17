@@ -8,8 +8,6 @@
 # echo "sysctl vm.overcommit_memory=1" >> /etc/sysctl.conf
 </pre>
 
-<hr>
-- Senha do Redis: password
 <pre>
 - Iniciando o container
 <pre>
@@ -19,3 +17,6 @@
 <pre>
 # ssh root@127.0.0.1 -p2200
 </pre>
+
+<hr>
+- Senha do Redis: "password"
